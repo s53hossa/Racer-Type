@@ -1,5 +1,5 @@
 # Racer-Type
-Grade 10 Type Racer Project
+Type Racer Project
 
 WARNING: 
 This code may not work due to the fact that backspace.txt is not set up properly,
