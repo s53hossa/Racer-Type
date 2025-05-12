@@ -2,7 +2,8 @@
 Grade 10 Type Racer Project
 
 WARNING: 
-This code may not work due to the fact that backspace.txt is not set up properly.
+This code may not work due to the fact that backspace.txt is not set up properly,
+ALSO, the getch library may not be initialized, I do not know how to get it worked on gihub sorry...
 
 When I was making this in grade 10, I could not figure out a way to delete a letter on the console,
 so I tracked my backspace press, and saved it to backspace.txt. While exporting this file though,
